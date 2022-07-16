@@ -29734,6 +29734,8 @@ paths:
       tags:
         - Query
 definitions:
+  berkingblog.berkingblog.MsgCreatePostResponse:
+    type: object
   berkingblog.berkingblog.Params:
     type: object
     description: Params defines the parameters for the module.

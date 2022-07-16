@@ -9,6 +9,8 @@
  * ---------------------------------------------------------------
  */
 
+export type BerkingblogMsgCreatePostResponse = object;
+
 /**
  * Params defines the parameters for the module.
  */
